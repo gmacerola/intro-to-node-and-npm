@@ -11,8 +11,8 @@
       "skipFiles": ["<node_internals>/**"],
       "program": "${workspaceFolder}/intro_to_node/buggy-script.js",
       "args": [
-        "./project-outline.txt",
-        "./my-project"
+        "./intro_to_node/source.txt",
+        "./target"
       ] /* put the arguments here in separate string elements! */
     }
   ]
